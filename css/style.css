@@ -1,0 +1,17 @@
+body{
+    background-image: url(../img/camp.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tribu-item {
+    background-color: rgb(90, 88, 88);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.camper-item {
+    list-style: square;
+    background-color: rgb(85, 75, 75);
+    padding: 10px;
+    margin-bottom: 5px;
+}
